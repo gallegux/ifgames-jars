@@ -1,0 +1,6 @@
+ifgames-core.jar
+ifgames-utils.jar
+IFGamesServer.jar
+*.j2
+*.japon
+*launcher*
