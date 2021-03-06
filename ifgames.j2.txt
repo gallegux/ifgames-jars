@@ -1,0 +1,72 @@
+#java-min-version=8
+#run-without-check=false
+
+date=2021-03-06 10:28:36
+desc=ifgames-git
+#url fichero .japon
+url=http://pocholi.ddns.net:9876/pocholine/ifgames.japon
+main-class=gallegux.ifgames.cliente.IniciarCliente
+
+0.url=http://gallegux.com/ifgames-cartas.jar
+0.file=https://raw.githubusercontent.com/gallegux/ifgames-jars/master/ifgames-cartas.jar
+0.store=true
+
+1.url=http://gallegux.com/ifgames-emojis.jar
+1.file=https://raw.githubusercontent.com/gallegux/ifgames-jars/master/ifgames-emojis.jar
+1.store=true
+
+2.url=http://gallegux.com/ifgames-fuentes.jar
+2.file=https://raw.githubusercontent.com/gallegux/ifgames-jars/master/ifgames-fuentes.jar
+2.store=true
+
+3.url=http://gallegux.com/ifgames-iconos.jar
+3.file=https://raw.githubusercontent.com/gallegux/ifgames-jars/master/ifgames-iconos.jar
+3.store=true
+
+4.url=http://gallegux.com/ifgames-sonidos.jar
+4.file=https://raw.githubusercontent.com/gallegux/ifgames-jars/master/ifgames-sonidos.jar
+4.store=true
+
+5.url=http://gallegux.com/ifgames-core.jar
+5.file=https://raw.githubusercontent.com/gallegux/ifgames-jars/master/ifgames-core.jarC
+5.store=false
+5.key=13,-77,-99,17,-88,-120,127,-50,115,39,73,126,-45,-32,41,11
+
+6.url=http://gallegux.com/ifgames-utils.jar
+6.file=https://raw.githubusercontent.com/gallegux/ifgames-jars/master/ifgames-utils.jarC
+6.store=false
+6.key=52,89,-125,-100,126,-98,51,5,-111,117,15,-31,-31,-20,-41,-90
+
+7.url=http://gallegux.com/ifgames-config.jar
+7.file=https://raw.githubusercontent.com/gallegux/ifgames-jars/master/ifgames-config.jar
+7.store=false
+
+8.url=http://gallegux.com/ifgames-graficos.jar
+8.file=https://raw.githubusercontent.com/gallegux/ifgames-jars/master/ifgames-graficos.jar
+8.store=true
+
+9.url=http://gallegux.com/ifgames-publicidad.jar
+9.file=https://raw.githubusercontent.com/gallegux/ifgames-jars/master/ifgames-publicidad.jar
+9.store=true
+
+
+0.crc32=295408385738
+0.version=2021-02-05 19:58:57
+1.crc32=72474590
+1.version=2021-01-25 21:51:48
+2.crc32=12104117771
+2.version=2021-02-05 19:58:57
+3.crc32=18290274998
+3.version=2021-03-01 17:48:31
+4.crc32=18396049531
+4.version=2021-02-05 19:58:57
+5.crc32=431018285986
+5.version=2021-03-06 10:28:36
+6.crc32=55835352069
+6.version=2021-03-06 10:28:36
+7.crc32=4871415908
+7.version=2021-03-06 10:28:36
+8.crc32=7212585870
+8.version=2021-02-05 19:58:57
+9.crc32=19262221758
+9.version=2021-03-06 10:28:36
